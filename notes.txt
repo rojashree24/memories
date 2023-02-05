@@ -1,0 +1,7 @@
+react-file-base64->convert our images
+axios->making api request
+moment->library for time and date
+redux-thunk->for async actions using redux
+
+client-> first do in index.js
+and then App.js

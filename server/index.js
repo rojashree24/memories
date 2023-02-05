@@ -16,7 +16,7 @@ app.use(cors());
 app.use("/user", userRoutes);
 app.use("/posts", postRoutes);
 
-const PORT = process.env.PORT || 5000;
+const PORT = 5000 || process.env.PORT;
 
 mongoose.set("strictQuery", true);
 mongoose
