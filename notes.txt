@@ -5,3 +5,6 @@ redux-thunk->for async actions using redux
 
 client-> first do in index.js
 and then App.js
+
+
+async and await->suppose have to take the msg from model means it will take time
